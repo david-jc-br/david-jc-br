@@ -1,3 +1,3 @@
-## Olá, Seja Bem-Vindo(a) 😄
-![isometric_platform](https://user-images.githubusercontent.com/73839667/117086960-8105c900-ad24-11eb-9299-b8d7e0d7afa7.gif)  
-⚠️*Perfil em contrução*⚠️
+# cout << "Olá, Seja Bem-Vindo(a)" << endl;
+![Computador](https://user-images.githubusercontent.com/73839667/117186865-a856a780-adb1-11eb-8f7a-e32e92a304ce.gif)
+
