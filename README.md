@@ -6,7 +6,7 @@
 ---
 <span align="center">
 
-![Computer](https://user-images.githubusercontent.com/73839667/117198516-82380400-adbf-11eb-938f-a20831cee8ad.gif)
+![code](https://user-images.githubusercontent.com/73839667/117200128-777e6e80-adc1-11eb-8886-f00f9e1758ee.gif)
 
 ---
 
