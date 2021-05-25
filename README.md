@@ -2,7 +2,8 @@
   
 ---
 # Olá, Seja Bem-Vindo(a)
-
+###### "Hello World"
+🌎🌍🌏
 ---
 <span align="center">
 
@@ -10,7 +11,7 @@
 
 ---
 
-### Sobre mim:
+### Sobre mim👨🏾‍💻:
 
 #### Eu tenho 19 anos e sou Estudante de Ciência da Computação na [Universidade Federal de Lavras](https://ufla.br/).
 
