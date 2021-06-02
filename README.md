@@ -10,7 +10,7 @@
 
 ---
 
-### Sobre mim👨🏾‍💻:
+### Sobre mim:
 
 #### Eu tenho 19 anos e sou Estudante de Ciência da Computação na [Universidade Federal de Lavras](https://ufla.br/).
 #### Atualmente estou estudando as linguagens [C++](https://docs.microsoft.com/pt-br/cpp/cpp/?view=msvc-160) e [C#](https://docs.microsoft.com/pt-br/dotnet/csharp/).
