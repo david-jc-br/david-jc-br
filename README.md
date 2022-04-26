@@ -2,7 +2,7 @@
   
 <img align="right" src="https://baltaio.blob.core.windows.net/static/images/dark/home-hero-illustration.svg" width="350"/>
 
-#### I'm computer science student at [Universidade Federal de Lavras](https://ufla.br/?msclkid=85d51fe2a7e011ec84421963ad9f1e48)
+#### I'm computer science student at [Fedreral University Of Lavras](https://ufla.br/?msclkid=85d51fe2a7e011ec84421963ad9f1e48)
 
 ## My Skills 
 
