@@ -11,6 +11,3 @@
 ---
 
 <div> 
-  <a href="https://instagram.com/david.jc.br" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/david-jc-br/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a
-![ne6ukkej06t71](https://user-images.githubusercontent.com/73839667/170786416-626ab243-b6c9-4586-96a1-7d8babcbaaa6.png)
