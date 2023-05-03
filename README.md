@@ -1,6 +1,6 @@
 <div>
 <h1>Hello🌎! David here!!!</h1>
-<img align="right" src="https://webstockreview.net/images/tired-clipart-computer-job-16.png" width="350" />
+<img align="right" src="https://user-images.githubusercontent.com/73839667/236026085-14a85404-ecc3-4211-8d5f-01ca287a01da.png" width="350" />
 
 <h2>I'm computer science student at <a href="https://ufla.br/">Federal University Of Lavras</a></h2>
 
@@ -9,7 +9,6 @@
 src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg"> <img
 align="center" alt="david-cpp" height="50" width="50"
 src="https://user-images.githubusercontent.com/73839667/148657872-449fdb27-b1d2-4be7-8620-c9d5d788bfe2.png">
-<img align="center" alt="david-vsCode" height="60" width="60"
 src="https://user-images.githubusercontent.com/73839667/159142016-2e951e1a-1df0-4965-a956-c42ede01ad0f.png">
 <img align="center" alt="david-VisualStudio" height="50" width="50"
 src="https://user-images.githubusercontent.com/73839667/148657708-66a6de0e-ba57-4966-84e0-93636bd45454.png">
