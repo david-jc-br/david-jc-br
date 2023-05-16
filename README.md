@@ -1,6 +1,5 @@
 <div>
 <h1>Hello🌎! David here!!!</h1>
-<img align="right" src="https://user-images.githubusercontent.com/73839667/236026085-14a85404-ecc3-4211-8d5f-01ca287a01da.png" width="350" />
 
 <h2>I'm computer science student at <a href="https://ufla.br/">Federal University Of Lavras</a></h2>
 
